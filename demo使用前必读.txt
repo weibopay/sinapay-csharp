@@ -1,0 +1,13 @@
+本demo为C#语言网站项目
+
+使用方式：
+
+1 自行下载Visual Studio 2013，或者更高版本。
+
+2 打开Visual Studio，点选文件->打开->网站
+
+3 选择本地的demo存放的跟目录
+
+4 成功导入后会在【解决方案资源管理器】看到项目。
+
+5 选择Visual Studio 运行按钮，选项使用Google chrome，点击启动demo，Google chrome唤起以后即可看到demo的界面。
